@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+models/
+data/
+*.h5
+*.pkl
+.vscode/
+.idea/
